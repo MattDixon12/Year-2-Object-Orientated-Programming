@@ -1,0 +1,349 @@
+﻿  Item.cpp
+  Weapon.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\weapon.cpp(15): error C2084: function 'Weapon::Weapon(void)' already has a body
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\weapon.cpp(5): note: see previous definition of '{ctor}'
+  Orc.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(8): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(14): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(17): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(19): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(26): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(28): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2011: 'Orc': 'class' type redefinition
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): note: see declaration of 'Orc'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(6): error C2027: use of undefined type 'Orc'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): note: see declaration of 'Orc'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(8): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(10): error C2027: use of undefined type 'Orc'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): note: see declaration of 'Orc'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(15): error C2027: use of undefined type 'Orc'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): note: see declaration of 'Orc'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.cpp(19): error C2027: use of undefined type 'Orc'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): note: see declaration of 'Orc'
+  Main.cpp
+  GameCharacter.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(8): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(14): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(17): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(19): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(26): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(28): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.cpp(65): error C2143: syntax error: missing ';' before 'GameCharacter::GetState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.cpp(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.cpp(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.cpp(66): error C2556: 'int GameCharacter::GetState(void)': overloaded function differs only by return type from 'GameCharacter::CharacterState GameCharacter::GetState(void)'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.h(41): note: see declaration of 'GameCharacter::GetState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.cpp(65): error C2371: 'GameCharacter::GetState': redefinition; different basic types
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\gamecharacter.h(41): note: see declaration of 'GameCharacter::GetState'
+  Cleric.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(8): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(14): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(17): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(19): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(26): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(28): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): error C2011: 'Cleric': 'class' type redefinition
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(5): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(8): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(10): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(13): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(15): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(18): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(21): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(23): error C2065: 'pietyLevel_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(27): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(29): error C2065: 'pietyLevel_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(36): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(38): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(38): error C2227: left of '->characterState' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2653: 'characterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2065: 'Sleeping': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2143: syntax error: missing ';' before 'this'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2227: left of '->SetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(40): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(41): error C2143: syntax error: missing ';' before 'if'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(41): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(41): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(42): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(42): error C2227: left of '->SetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(49): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(58): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(58): error C2228: left of '.SetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(58): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(65): error C2027: use of undefined type 'Cleric'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(5): note: see declaration of 'Cleric'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(65): error C2061: syntax error: identifier 'character'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(67): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(73): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(73): error C2227: left of '->GetEquippedWeapon' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(75): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(75): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(77): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(77): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(77): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(77): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(77): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2228: left of '.GetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2227: left of '->GetWeapon' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2227: left of '->GetEquippedWeapon' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(79): error C2228: left of '.GetWeaponHitStrength' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(83): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(83): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(83): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(83): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(83): error C2065: 'Defending': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): error C2228: left of '.GetEquippedArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(85): error C2228: left of '.GetArmorHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.getArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.GetEquippedArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.SetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(87): error C2228: left of '.GetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(91): error C2228: left of '.SetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): error C2228: left of '.erase' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): error C2228: left of '.begin' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(92): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(96): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(96): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(96): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(96): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(96): error C2065: 'Sleeping': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(98): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(98): error C2228: left of '.SetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(98): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(98): error C2228: left of '.GetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(98): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(100): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(100): error C2228: left of '.SetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(100): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(100): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(100): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(102): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(102): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(102): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(102): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(102): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(107): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(107): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(107): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(107): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(107): error C2065: 'Defending': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(109): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.cpp(109): fatal error C1003: error count exceeds 100; stopping compilation
+  Brawler.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(8): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(14): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(17): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(19): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(26): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(28): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): error C2011: 'Brawler': 'class' type redefinition
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(6): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(8): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(10): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(12): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(15): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(18): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(20): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(22): error C2065: 'punchDamage_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(25): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(27): error C2065: 'strength_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(30): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(32): error C2065: 'punchDamage_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(36): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(38): error C2065: 'strength_': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(42): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(44): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(44): error C2227: left of '->characterState' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2653: 'characterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2065: 'Sleeping': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2143: syntax error: missing ';' before 'this'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2227: left of '->SetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(46): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(47): error C2143: syntax error: missing ';' before 'if'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(47): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(47): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(48): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(48): error C2227: left of '->SetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(51): error C2059: syntax error: '}'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(51): error C2143: syntax error: missing ';' before '}'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(63): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(64): error C2143: syntax error: missing ';' before '{'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(64): error C2447: '{': missing function header (old-style formal list?)
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(257): error C2027: use of undefined type 'Brawler'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(7): note: see declaration of 'Brawler'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(257): error C2061: syntax error: identifier 'character'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(273): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(273): error C2227: left of '->GetEquippedWeapon' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(275): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(275): error C2227: left of '->GetHealth' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(277): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(277): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(277): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(277): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(277): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2228: left of '.GetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(279): error C2227: left of '->GetpunchDamage' must point to class/struct/union/generic type
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(283): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(283): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(283): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(283): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(283): error C2065: 'Defending': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): error C2228: left of '.GetEquippedArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(285): error C2228: left of '.GetArmorHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.getArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.GetEquippedArmor' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.SetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(287): error C2228: left of '.GetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(291): error C2228: left of '.SetArmourHealth' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): error C2228: left of '.GetArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): error C2228: left of '.erase' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): error C2228: left of '.begin' must have class/struct/union
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): error C2228: left of '.GetEquippedArmour' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(292): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(296): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(296): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(296): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(296): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(296): error C2065: 'Sleeping': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(298): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(298): error C2228: left of '.SetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(298): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(298): error C2228: left of '.GetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(298): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(300): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(300): error C2228: left of '.GetHealth' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(300): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(301): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(301): error C2228: left of '.SetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(301): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(301): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(301): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): error C2065: 'character': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): note: type is 'unknown-type'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): error C2065: 'Dead': undeclared identifier
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.cpp(303): fatal error C1003: error count exceeds 100; stopping compilation
+  BlackWitch.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(8): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(14): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(17): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\brawler.h(19): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(14): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\cleric.h(16): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(4): error C2504: 'GameCharacter': base class undefined
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(15): error C2061: syntax error: identifier 'CharacterState'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(26): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\orc.h(28): error C2061: syntax error: identifier 'GameCharacter'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.cpp(11): error C2511: 'bool BlackWitch::Attack(GameCharacter &)': overloaded member function not found in 'BlackWitch'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(5): note: see declaration of 'BlackWitch'
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.cpp(30): error C2511: 'void BlackWitch::Bewitch(GameCharacter &)': overloaded member function not found in 'BlackWitch'
+  c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\blackwitch.h(5): note: see declaration of 'BlackWitch'
+  Armour.cpp
+c:\users\tham\desktop\assignment_2\assignment_2\assignment_2\armour.cpp(9): error C2059: syntax error: '{'
+  Generating Code...
